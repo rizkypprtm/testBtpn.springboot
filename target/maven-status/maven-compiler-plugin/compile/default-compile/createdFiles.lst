@@ -1,0 +1,6 @@
+com\testBtpn\springboot\controller\MahasiswaController.class
+com\testBtpn\springboot\MahasiswaApplication.class
+com\testBtpn\springboot\model\Mahasiswa.class
+com\testBtpn\springboot\repository\MahasiswaRepository.class
+com\testBtpn\springboot\dao\MahasiswaDAO.class
+com\testBtpn\springboot\model\Khs.class
